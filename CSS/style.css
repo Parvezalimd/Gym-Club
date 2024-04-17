@@ -1,0 +1,69 @@
+body{
+    background-color: black;
+    background-image: url("IMAGES/image25.jpg");
+
+}
+caption
+{
+    font: 4px;  
+    color: blanchedalmond;
+}
+p{
+    color: white;
+}
+pre{
+    background-color: gold;
+    height: 150%;
+
+    width: 100%;
+    font-size: 120%;
+}
+h1{
+    color: blanchedalmond;
+    font-style: oblique;
+    font-size: 200%;
+}
+p1{
+    font-size: 150%;
+    color: white;
+}
+#k{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.menu-bar{
+    background: red;
+    height: 5%;
+}
+.menu-bar ul{
+    display: inline-flex;
+    list-style: none;
+    color: white;
+}
+.menu-bar ul li{
+    width: 120px;
+    margin: 15px;
+    padding: -3px;
+} 
+
+.block {display: block;
+    width: 100%;
+    border: none;
+    background-color:#4CAF50;
+    color: white;
+    padding: 18px 32px;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  .block:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  button{
+  font-size:20px;}
+
